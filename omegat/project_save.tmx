@@ -84,6 +84,14 @@
         <seg>Esta é a tradução para o inglês de um estudo dos 'Amigos de Durruti' publicado em 1983 pelo comunista libertário francês George Fontenis.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This stands in stark contract to the approach of those who have tried to speak for them in order to conscript them to various ideologies today, some of which they would certainly have rejected out of hand.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="manu" changedate="20160801T031100Z" creationid="manu" creationdate="20160801T031100Z">
+        <seg>Isto se coloca num contraste gritante com a abordagem de quem tentou falar pelo grupo com o fim de alistá-lo para ideologias atuais diversas, algumas das quais ele teria rejeitado de cara.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
