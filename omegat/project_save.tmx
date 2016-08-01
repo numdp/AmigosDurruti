@@ -196,6 +196,14 @@
         <seg>O que posso dizer é que esta é a segunda edição, edições publicadas "L" e/ou AGORA 2000, Caixa Postal 177, 75267 Paris Cedex 20 e/ou Le Fil Du Temps.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When using this phrase 'libertarian communism' it is certainly worthwhile to clearly distinguish it from two other versions which are endowed with the same name.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="manu" changedate="20160801T034946Z" creationid="manu" creationdate="20160801T034946Z">
+        <seg>O uso dessas duas palavras certamente se beneficiaria se elas fossem claramente distinguidas de duas outras variantes que recebem o mesmo nome.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
