@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>2011</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="manu" changedate="20160801T031848Z" creationid="manu" creationdate="20160801T031848Z">
+        <seg>2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Andrew Flood.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="manu" changedate="20160801T031305Z" creationid="manu" creationdate="20160801T031305Z">
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="manu" changedate="20160801T004522Z" creationid="manu" creationdate="20160801T004522Z">
         <seg>Sua importância principal está em que, ao reproduzir trechos extensos de seu jornal, ele permite que os Amigos de Durruti falem por si mesmos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note from the translator Chekov Feeney.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="manu" changedate="20160801T031856Z" creationid="manu" creationdate="20160801T031856Z">
+        <seg>Nota do tradutor Chekov Feeney.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66,6 +82,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="manu" changedate="20160801T003548Z" creationid="manu" creationdate="20160801T003548Z">
         <seg>A primeira edição, fortemente censurada, de seu jornal 'El Amigo del Pueblo' apareceu logo após as Jornadas de Maio em Barcelona, e seções dele são reproduzidas pela primeira vez em inglês neste panfleto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The introduction is not credited and the publishing details are a little bit difficult to discern since there are AL (Alternative Libertaire) stickers on top of the original publishing information.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="manu" changedate="20160801T032106Z" creationid="manu" creationdate="20160801T032106Z">
+        <seg>A introdução não está creditada, e os detalhes de publicação são um pouco difíceis de se identificar, pois há adesivos da AL (Alternative Libertaire) sobre os dados de publicação originais.</seg>
       </tuv>
     </tu>
     <tu>
