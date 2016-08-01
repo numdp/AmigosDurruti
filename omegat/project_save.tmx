@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No date is given for this edition.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="manu" changedate="20160801T032533Z" creationid="manu" creationdate="20160801T032533Z">
+        <seg>Nenhuma data é fornecida para esta edição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note from the translator Chekov Feeney.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="manu" changedate="20160801T031856Z" creationid="manu" creationdate="20160801T031856Z">
@@ -114,6 +122,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="manu" changedate="20160801T031203Z" creationid="manu" creationdate="20160801T031203Z">
         <seg>O tradutor para o inglês, Chekov Feeney, acrescentou a seguinte nota quando a tradução foi publicada online pela primeira vez em 2000.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is a note on the inside cover that says that the present edition is part of the collective work of Alternative Libertaire.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="manu" changedate="20160801T032523Z" creationid="manu" creationdate="20160801T032523Z">
+        <seg>Há uma nota na contracapa que diz que esta edição é parte de um trabalho coletivo da Alternative Libertaire.</seg>
       </tuv>
     </tu>
     <tu>
