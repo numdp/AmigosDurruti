@@ -4,6 +4,14 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The revolutionary message of the Friends of Durruti.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="manu" changedate="20160801T002224Z" creationid="manu" creationdate="20160801T002224Z">
+        <seg>A mensagem revolucionário dos Amigos de Durruti.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
