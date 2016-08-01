@@ -140,6 +140,14 @@
         <seg>Isto se coloca num contraste gritante com a abordagem de quem tentou falar pelo grupo com o fim de alistá-lo para ideologias atuais diversas, algumas das quais ele teria rejeitado de cara.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What I can say is that it is the second edition, published editions "L" and/or AGORA 2000, PO box 177, 75267 Paris Cedex 20 and/or Le Fil Du Temps.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="manu" changedate="20160801T032244Z" creationid="manu" creationdate="20160801T032244Z">
+        <seg>O que posso dizer é que esta é a segunda edição, edições publicadas "L" e/ou AGORA 2000, Caixa Postal 177, 75267 Paris Cedex 20 e/ou Le Fil Du Temps.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
