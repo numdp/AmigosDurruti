@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>Andrew Flood.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="manu" changedate="20160801T031305Z" creationid="manu" creationdate="20160801T031305Z">
+        <seg>Andrew Flood.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It traces the path and political weaknesses that led the CNT into collaboration at the cost of standing aside as the revolution was suppressed and the emergence of the Friends of Durruti in reaction to this.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="manu" changedate="20160801T004403Z" creationid="manu" creationdate="20160801T004403Z">
@@ -78,10 +86,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The translator, Chekov Feeney, provided the following note when the translation was first published online in 2000.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="manu" changedate="20160801T031203Z" creationid="manu" creationdate="20160801T031203Z">
+        <seg>O tradutor para o inglês, Chekov Feeney, acrescentou a seguinte nota quando a tradução foi publicada online pela primeira vez em 2000.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is the English translation of a study of 'The Friends of Durruti' published in 1983 by the French libertarian communist George Fontenis.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="manu" changedate="20160801T004147Z" creationid="manu" creationdate="20160801T004147Z">
         <seg>Esta é a tradução para o inglês de um estudo dos 'Amigos de Durruti' publicado em 1983 pelo comunista libertário francês George Fontenis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This reproduction of that translation was prepared to mark the 75th anniversary of the outbreak of the Spanish Revolution in 2011.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="manu" changedate="20160801T031300Z" creationid="manu" creationdate="20160801T031300Z">
+        <seg>Esta reprodução daquela tradução foi preparada para marcar o 75º aniversário da eclosão da Revolução Espanhola, em 2011.</seg>
       </tuv>
     </tu>
     <tu>
