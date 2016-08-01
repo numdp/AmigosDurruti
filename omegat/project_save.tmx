@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternative Libertaire pamphlet translated from French by Chekov Feeney, 1999/2000.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="manu" changedate="20160801T032833Z" creationid="manu" creationdate="20160801T032833Z">
+        <seg>Panfleto da Alternative Libertaire traduzido do francês por Chekov Feeney, 1999/2000.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Andrew Flood.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="manu" changedate="20160801T031305Z" creationid="manu" creationdate="20160801T031305Z">
@@ -58,6 +66,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="manu" changedate="20160801T005657Z" creationid="manu" creationdate="20160801T005657Z">
         <seg>Prefácio de Daniel Guerin à 1ª edição (1983)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text and translations by George Fontenis.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="manu" changedate="20160801T032809Z" creationid="manu" creationdate="20160801T032809Z">
+        <seg>Texto e traduções por George Fontenis</seg>
       </tuv>
     </tu>
     <tu>
@@ -114,6 +130,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="manu" changedate="20160801T025259Z" creationid="manu" creationdate="20160801T002224Z">
         <seg>A mensagem revolucionário dos Amigos de Durruti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The title in French is (as it appears on the cover) le message revolutionnaire des "Amis de Durruti" (Espagne 1937) Texte et traductions de Georges Fontenis Avant-Propos de Daniel Guerin.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="manu" changedate="20160801T032754Z" creationid="manu" creationdate="20160801T032754Z">
+        <seg>O título em francês é (como aparece na capa) Le message revolutionnaire des "Amis de Durruti" (Espagne 1837) Texte et traductions de Georges Fontenis Avant-Propos de Daniel Guerin.</seg>
       </tuv>
     </tu>
     <tu>
