@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>The Spanish anarchist organization 'The Friends of Durruti' was formed by members of the CNT in 1937 in opposition to the collaboration of the CNT leadership in the government of Republican Spain.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="manu" changedate="20160801T003225Z" creationid="manu" creationdate="20160801T003225Z">
+        <seg>A organização anarquista espanhola 'Os Amigos de Durruti' foi formada por membros da CNT em 1937, em oposição à colaboração da liderança da CNT com o governo da Espanha republicana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The revolutionary message of the Friends of Durruti.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="manu" changedate="20160801T002224Z" creationid="manu" creationdate="20160801T002224Z">
